@@ -6,7 +6,7 @@ Roots of Pacha is a co-op farming and life simulation game set in the stone age.
 
 ---
 # Studio
-
+https://github.com/SamKushmier/Markdown-Pages/blob/Studio/README.md#studio
 
 ---
 # Animals
